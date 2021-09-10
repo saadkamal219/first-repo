@@ -16,4 +16,4 @@ if __name__ == '__main__':
 
     number = Number(int(num1), int(num2))
     print('sum is:', number.add())
-    print('substract is:', number.substract())
+    print('substract is:', number.substract()) 
